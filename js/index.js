@@ -144,9 +144,6 @@ $('.scrollBtn').click(function(){
 
   $(".progress-bar").loading();
 
-  console.log($(window).height());
-  console.log($(document).height());
   let _docHeight = (document.height !== undefined) ? document.height : document.body.offsetHeight;
-  console.log(_docHeight);
 
 });

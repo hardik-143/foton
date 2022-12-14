@@ -348,6 +348,7 @@ input:focus {
   transform: translateX(110%);
   padding: 20px 75px 40px 60px;
   transition: all 0.2s ease-in;
+  box-shadow: 0 10px 55px 5px rgba(0, 0, 0, 0.151);
 }
 
 .Fsidebar .inner {
